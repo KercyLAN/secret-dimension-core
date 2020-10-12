@@ -1,4 +1,4 @@
-package kstr
+package str
 
 import (
 	"strconv"

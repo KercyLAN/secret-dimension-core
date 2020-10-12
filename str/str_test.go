@@ -1,8 +1,4 @@
-// expect：be sure to finish!
-// author：KercyLAN
-// create at：2020-2-29 12:26
-
-package kstr
+package str
 
 import "testing"
 
